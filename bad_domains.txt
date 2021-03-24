@@ -1,5 +1,6 @@
 # Title: Andy's Bad Domain List
 # Released: 2021-03-22T14:28:00+00:00
+# Modified: 2021-03-24T15:36:00+00:00
 # Copyright 2021 Andy Woodward
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,5 +15,32 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-0.0.0.0 mirror.math.princeton.edu
-0.0.0.0 v8fzc.info
+# Malware Domains
+0.0.0.0     mirror.math.princeton.edu
+0.0.0.0     v8fzc.info
+
+# Bad Domains from a Security Incident
+0.0.0.0     123-gmbh.dez
+0.0.0.0     api.customairbrushoklahoma.com
+0.0.0.0     c1oudflare.com
+0.0.0.0     cdn-cloudflare.cn
+0.0.0.0     cdn.greyrockland.com
+0.0.0.0     customairbrushoklahoma.com
+0.0.0.0     easyco.club
+0.0.0.0     fearlesslyhuman.org
+0.0.0.0     foods-pro.com
+0.0.0.0     greyrockland.com
+0.0.0.0     guezbak.com
+0.0.0.0     joqeke.network
+0.0.0.0     js.choosebudget.com
+0.0.0.0     n.00xx.xyz
+0.0.0.0     ns1.guezbak.com
+0.0.0.0     syvansoft.com
+0.0.0.0     tattooprestige.com
+0.0.0.0     tedxns.com
+0.0.0.0     www.xtremegps.com
+0.0.0.0     xiaoxin1.net
+0.0.0.0     xtremegps.com
+0.0.0.0     elegant-themes-f149edab9071.intercom-mail.com
+
+
