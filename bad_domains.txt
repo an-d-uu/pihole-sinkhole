@@ -33,6 +33,7 @@
 0.0.0.0     www.mediaplex.com
 0.0.0.0     zedo.com
 0.0.0.0     www.zedo.com
+0.0.0.0     www.googletagmanager.com
 
 # Malware Domains (Added by Hand)
 0.0.0.0     mirror.math.princeton.edu
