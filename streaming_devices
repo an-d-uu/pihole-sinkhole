@@ -1,0 +1,95 @@
+# Title: Streaming Devices Ad List
+# Released: 2021-03-27T14:28:00+00:00
+# Modified:
+# Copyright 2021 Andy Woodward
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+
+# Roku Ad Domains
+0.0.0.0     ads.roku.com
+0.0.0.0     amarillo.logs.roku.com
+0.0.0.0     amoeba-plus.web.roku.com
+0.0.0.0     austin.logs.roku.com
+0.0.0.0     bryan.logs.roku.com
+0.0.0.0     camden.logs.roku.com
+0.0.0.0     cloudservices.roku.com
+0.0.0.0     cooper.logs.roku.com
+0.0.0.0     customer-feedbacks.web.roku.com
+0.0.0.0     digdug-g2.logs.roku.com
+0.0.0.0     digdug.logs.roku.com
+0.0.0.0     display.ravm.tv
+0.0.0.0     esp.logs.roku.com
+0.0.0.0     giga.logs.roku.com
+0.0.0.0     gilbert.logs.roku.com
+0.0.0.0     griffin.logs.roku.com
+0.0.0.0     hereford.logs.roku.com
+0.0.0.0     i.ads.roku.com
+0.0.0.0     identity-dev.ads.roku.com
+0.0.0.0     identity.ads.roku.com
+0.0.0.0     lagrange.logs.roku.com
+0.0.0.0     liberty.logs.roku.com
+0.0.0.0     littlefield.logs.roku.com
+0.0.0.0     logs.roku.com
+0.0.0.0     longview.logs.roku.com
+0.0.0.0     midland.logs.roku.com
+0.0.0.0     mobile.logs.roku.com
+0.0.0.0     p.ads.roku.com
+0.0.0.0     paolo.logs.roku.com
+0.0.0.0     raps-perf.ravm.tv
+0.0.0.0     raps.ravm.tv
+0.0.0.0     ravm.tv
+0.0.0.0     richmond.logs.roku.com
+0.0.0.0     rollingwood.logs.roku.com
+0.0.0.0     rxr.ravm.tv
+0.0.0.0     samples.voice.cti.roku.com
+0.0.0.0     scribe.logs.roku.com
+0.0.0.0     sugarland.logs.roku.com
+0.0.0.0     traces.sr.roku.com
+0.0.0.0     track.sr.roku.com
+0.0.0.0     tyler.logs.roku.com
+0.0.0.0     victoria.logs.roku.com
+0.0.0.0     windsor.logs.roku.com
+0.0.0.0     wwwimg.roku.com
+
+# Apple
+0.0.0.0     advertising.apple.com
+0.0.0.0     banners.itunes.apple.com
+0.0.0.0     books-analytics-events.apple.com
+0.0.0.0     notes-analytics-events.apple.com
+0.0.0.0     securemetrics.apple.com
+0.0.0.0     stocks-analytics-events.apple.com
+0.0.0.0     weather-analytics-events.apple.com
+
+# iadsdk.apple.com 
+0.0.0.0     iadsdk.apple.com
+0.0.0.0     ca.iadsdk.apple.com
+0.0.0.0     cf.iadsdk.apple.com
+0.0.0.0     cs.iadsdk.apple.com
+0.0.0.0     news.iadsdk.apple.com
+0.0.0.0     su.iadsdk.apple.com
+0.0.0.0     tr.iadsdk.apple.com
+0.0.0.0     ut.iadsdk.apple.com
+
+# iad.apple.com
+0.0.0.0     apps.iad.apple.com
+0.0.0.0     blueprints.iad.apple.com
+0.0.0.0     ccportal.iad.apple.com
+0.0.0.0     cmws.iad.apple.com
+0.0.0.0     display-apps-ui-soak.iad.apple.com
+0.0.0.0     display-apps-ui.iad.apple.com
+0.0.0.0     iad.apple.com
+0.0.0.0     iadfeed.iad.apple.com
+0.0.0.0     iadworkbench-soak.iad.apple.com
+0.0.0.0     iris.iad.apple.com
+0.0.0.0     stg-cmws.iad.apple.com
