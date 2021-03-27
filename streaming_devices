@@ -1,6 +1,6 @@
 # Title: Streaming Devices Ad List
 # Released: 2021-03-27T14:28:00+00:00
-# Modified:
+# Modified: 2021-03-27T14:44:00+00:00
 # Copyright 2021 Andy Woodward
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -15,8 +15,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# Amazon Ad Domains
+0.0.0.0     analyticsengine.s3.amazonaws.com
 
 # Roku Ad Domains
+0.0.0.0     scribe.logs.roku.com
 0.0.0.0     ads.roku.com
 0.0.0.0     amarillo.logs.roku.com
 0.0.0.0     amoeba-plus.web.roku.com
@@ -63,6 +66,8 @@
 0.0.0.0     wwwimg.roku.com
 
 # Apple
+0.0.0.0     webproxy-advp.iad-apple.com.akadns.net
+0.0.0.0     iadcontent.apple.com
 0.0.0.0     advertising.apple.com
 0.0.0.0     banners.itunes.apple.com
 0.0.0.0     books-analytics-events.apple.com
@@ -70,8 +75,6 @@
 0.0.0.0     securemetrics.apple.com
 0.0.0.0     stocks-analytics-events.apple.com
 0.0.0.0     weather-analytics-events.apple.com
-
-# iadsdk.apple.com 
 0.0.0.0     iadsdk.apple.com
 0.0.0.0     ca.iadsdk.apple.com
 0.0.0.0     cf.iadsdk.apple.com
@@ -80,8 +83,6 @@
 0.0.0.0     su.iadsdk.apple.com
 0.0.0.0     tr.iadsdk.apple.com
 0.0.0.0     ut.iadsdk.apple.com
-
-# iad.apple.com
 0.0.0.0     apps.iad.apple.com
 0.0.0.0     blueprints.iad.apple.com
 0.0.0.0     ccportal.iad.apple.com
