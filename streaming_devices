@@ -27,6 +27,7 @@
 # Food TV
 0.0.0.0     adlog.ifood.tv
 0.0.0.0     log.ifood.tv
+0.0.0.0     static.ifood.tv
 
 # Roku Ad Domains
 0.0.0.0     scribe.logs.roku.com
