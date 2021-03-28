@@ -1,6 +1,6 @@
 # Title: Streaming Devices Ad List
 # Released: 2021-03-27T14:28:00+00:00
-# Modified: 2021-03-27T14:44:00+00:00
+# Modified: 2021-03-28T09:55:00+00:00
 # Copyright 2021 Andy Woodward
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -15,8 +15,15 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# Misc Ads
+0.0.0.0     sb.scorecardresearch.com
+
 # Amazon Ad Domains
 0.0.0.0     analyticsengine.s3.amazonaws.com
+
+# Food TV
+0.0.0.0     adlog.ifood.tv
+0.0.0.0     log.ifood.tv
 
 # Roku Ad Domains
 0.0.0.0     scribe.logs.roku.com
