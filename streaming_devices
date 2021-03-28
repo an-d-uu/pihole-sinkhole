@@ -17,9 +17,11 @@
 
 # Misc Ads
 0.0.0.0     sb.scorecardresearch.com
+0.0.0.0     pd13201-atndv.ads.tremorhub.com
 
 # Amazon Ad Domains
 0.0.0.0     analyticsengine.s3.amazonaws.com
+0.0.0.0     device-metrics-us.amazon.com
 
 # Food TV
 0.0.0.0     adlog.ifood.tv
