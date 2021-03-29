@@ -1,6 +1,6 @@
 # Title: Streaming Devices Ad List
 # Released: 2021-03-27T14:28:00+00:00
-# Modified: 2021-03-28T09:55:00+00:00
+# Modified: 2021-03-28T19:05:00+00:00
 # Copyright 2021 Andy Woodward
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -19,6 +19,15 @@
 0.0.0.0     sb.scorecardresearch.com
 0.0.0.0     pd13201-atndv.ads.tremorhub.com
 0.0.0.0     adtags.freeawesometv.com
+0.0.0.0     ad.doubleclick.net
+0.0.0.0     googleads4.g.doubleclick.net
+0.0.0.0     cdn.blisspointmedia.com
+0.0.0.0     pixel.pointmediatracker.com
+0.0.0.0     beacons.extremereach.io
+0.0.0.0     ads.stickyadstv.com
+0.0.0.0     match.prod.bidr.io
+0.0.0.0     d.turn.com
+0.0.0.0     tag.researchnow.com
 
 # Amazon Ad Domains
 0.0.0.0     analyticsengine.s3.amazonaws.com
@@ -28,6 +37,10 @@
 0.0.0.0     adlog.ifood.tv
 0.0.0.0     log.ifood.tv
 0.0.0.0     static.ifood.tv
+0.0.0.0     static.ifood.tv
+
+# Google Ads
+0.0.0.0     ade.googlesyndication.com
 
 # Roku Ad Domains
 0.0.0.0     scribe.logs.roku.com
