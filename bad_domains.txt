@@ -17,6 +17,8 @@
 
 
 # Ad Domains (Added by Hand)
+0.0.0.0     tpc.googlesyndication.com
+
 0.0.0.0     cdn.optmd.com
 0.0.0.0     c5.zedo.com
 0.0.0.0     l1.zedo.com
