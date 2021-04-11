@@ -29,6 +29,13 @@
 0.0.0.0     d.turn.com
 0.0.0.0     tag.researchnow.com
 
+# Hulu Ads (experienced while watching live tv)
+0.0.0.0     events.tremorhub.com
+0.0.0.0     static.adsafeprotected.com
+0.0.0.0     adsafeprotected.com
+0.0.0.0     ads-e-darwin.hulustream.com
+0.0.0.0     secure-us.imrworldwide.com
+
 # Amazon Ad Domains
 0.0.0.0     analyticsengine.s3.amazonaws.com
 0.0.0.0     device-metrics-us.amazon.com
