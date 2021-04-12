@@ -28,6 +28,7 @@
 0.0.0.0     match.prod.bidr.io
 0.0.0.0     d.turn.com
 0.0.0.0     tag.researchnow.com
+0.0.0.0     securepubads.g.doubleclick.net
 
 # Hulu Ads (experienced while watching live tv)
 0.0.0.0     events.tremorhub.com
