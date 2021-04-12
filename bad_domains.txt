@@ -1,6 +1,6 @@
 # Title: Andy's Bad Domain List
 # Released: 2021-03-22T14:28:00+00:00
-# Modified: 2021-03-24T15:36:00+00:00
+# Modified: 2021-04-12T08:35:00+00:00
 # Copyright 2021 Andy Woodward
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -43,6 +43,8 @@
 0.0.0.0     v8fzc.info
 0.0.0.0     cnn.compromisedblog.com
 
+#Tracking Domains
+0.0.0.0     track.notify-w.box.com
 
 # Bad Domains from a Security Incident
 0.0.0.0     123-gmbh.dez
