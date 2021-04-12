@@ -45,6 +45,7 @@
 
 #Tracking Domains
 0.0.0.0     track.notify-w.box.com
+0.0.0.0     email.listen360.com
 
 # Bad Domains from a Security Incident
 0.0.0.0     123-gmbh.dez
