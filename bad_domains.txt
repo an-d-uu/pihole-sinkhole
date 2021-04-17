@@ -46,6 +46,11 @@
 #Tracking Domains
 0.0.0.0     track.notify-w.box.com
 0.0.0.0     email.listen360.com
+0.0.0.0     webdevolutions.blob.core.windows.net
+0.0.0.0     wmail3.devolutions.net
+0.0.0.0     t.paypal.com
+0.0.0.0     post.spmailtechno.com
+0.0.0.0     u11055334.ct.sendgrid.net
 
 # Bad Domains from a Security Incident
 0.0.0.0     123-gmbh.dez
