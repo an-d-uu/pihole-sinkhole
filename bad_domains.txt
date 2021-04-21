@@ -34,9 +34,12 @@
 0.0.0.0     www.mediaplex.com
 0.0.0.0     zedo.com
 0.0.0.0     www.zedo.com
+0.0.0.0     googletagmanager.com
 0.0.0.0     www.googletagmanager.com
 0.0.0.0     choice.microsoft.com.nstac.net
 0.0.0.0     ads.stickyadstv.com
+0.0.0.0     choice.microsoft.com.nstac.net
+0.0.0.0     assets.vlitag.com
 
 # Malware Domains (Added by Hand)
 0.0.0.0     mirror.math.princeton.edu
