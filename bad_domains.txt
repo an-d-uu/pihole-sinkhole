@@ -43,7 +43,7 @@
 0.0.0.0     v8fzc.info
 0.0.0.0     cnn.compromisedblog.com
 
-#Tracking Domains
+#Tracking Domains (Found via Trocker)
 0.0.0.0     track.notify-w.box.com
 0.0.0.0     email.listen360.com
 0.0.0.0     webdevolutions.blob.core.windows.net
@@ -51,6 +51,15 @@
 0.0.0.0     t.paypal.com
 0.0.0.0     post.spmailtechno.com
 0.0.0.0     u11055334.ct.sendgrid.net
+0.0.0.0     mi.tractorsupply.com
+0.0.0.0     media.tractorsupply.com
+0.0.0.0     content-us-7.content-cms.com
+0.0.0.0     res.iluv.southwest.com
+0.0.0.0     link.zazzle.com
+0.0.0.0     u11055334.ct.sendgrid.net
+0.0.0.0     pixel.monitor1.returnpath.net
+0.0.0.0     pixel.app.returnpath.net
+0.0.0.0     t.iluv.southwest.com
 
 # Bad Domains from a Security Incident
 0.0.0.0     123-gmbh.dez
