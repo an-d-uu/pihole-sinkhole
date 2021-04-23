@@ -46,6 +46,12 @@
 0.0.0.0     v8fzc.info
 0.0.0.0     cnn.compromisedblog.com
 
+# SPAM Text Messages with Urls
+0.0.0.0     utjbceza.yskp9lfv.com
+0.0.0.0     yskp9lfv.com
+0.0.0.0     qpkvk3eb.puocl9ho.com
+0.0.0.0     puocl9ho.com
+
 #Tracking Domains (Found via Trocker)
 0.0.0.0     track.notify-w.box.com
 0.0.0.0     email.listen360.com
