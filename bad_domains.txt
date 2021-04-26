@@ -57,6 +57,7 @@
 0.0.0.0     choice.microsoft.com.nstac.net
 0.0.0.0     collector-hpn.ghostery.net
 0.0.0.0     czfe80.front01.iad01.production.nest.com
+0.0.0.0     czfe96.front01.iad01.production.nest.com
 0.0.0.0     d.turn.com
 0.0.0.0     dsa.moatads.com
 0.0.0.0     moatads.com
