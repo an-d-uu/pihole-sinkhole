@@ -99,6 +99,7 @@
 0.0.0.0     yskp9lfv.com
 0.0.0.0     qpkvk3eb.puocl9ho.com
 0.0.0.0     puocl9ho.com
+0.0.0.0     viewnewsmobile.com
 
 #Tracking Domains (Found via Trocker)
 0.0.0.0     track.notify-w.box.com
