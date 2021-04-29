@@ -122,6 +122,10 @@
 0.0.0.0     i7.t.hubspotemail.net
 0.0.0.0     ci4.googleusercontent.com
 0.0.0.0     ci3.googleusercontent.com
+0.0.0.0     js.stripe.com
+0.0.0.0     m.stripe.com
+0.0.0.0     m.stripe.network
+0.0.0.0     js.stripe.network
 
 # Bad Domains from a Security Incident
 0.0.0.0     123-gmbh.dez
