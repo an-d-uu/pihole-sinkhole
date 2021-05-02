@@ -100,6 +100,8 @@
 0.0.0.0     qpkvk3eb.puocl9ho.com
 0.0.0.0     puocl9ho.com
 0.0.0.0     viewnewsmobile.com
+0.0.0.0     kfomn2hrzifp4w7ce.casa
+0.0.0.0     q7z4m7d9.stackpathcdn.com
 
 #Tracking Domains (Found via Trocker)
 0.0.0.0     track.notify-w.box.com
