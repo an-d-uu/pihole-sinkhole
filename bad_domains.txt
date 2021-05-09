@@ -43,6 +43,7 @@
 0.0.0.0     9af2a4c7.ds.trckrry.com
 0.0.0.0     ad.doubleclick.net
 0.0.0.0     ade.googlesyndication.com
+0.0.0.0     googleads.g.doubleclick.net
 0.0.0.0     ads.stickyadstv.com
 0.0.0.0     adserver-east.extend.tv
 0.0.0.0     extend.tv
