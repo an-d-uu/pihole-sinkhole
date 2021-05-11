@@ -131,6 +131,11 @@
 0.0.0.0     m.stripe.network
 0.0.0.0     js.stripe.network
 
+#Tracking Domains (Found via Fiddler)
+0.0.0.0     consent.cookiebot.com
+0.0.0.0     www.cookiebot.com
+0.0.0.0     cookiebot.com
+
 # Bad Domains from a Security Incident
 0.0.0.0     123-gmbh.dez
 0.0.0.0     api.customairbrushoklahoma.com
