@@ -92,7 +92,6 @@
 
 # Malware Domains (Added by Hand)
 0.0.0.0     mirror.math.princeton.edu
-0.0.0.0     v8fzc.info
 0.0.0.0     cnn.compromisedblog.com
 0.0.0.0     computerstepbystep.com
 
@@ -104,6 +103,8 @@
 0.0.0.0     viewnewsmobile.com
 0.0.0.0     kfomn2hrzifp4w7ce.casa
 0.0.0.0     q7z4m7d9.stackpathcdn.com
+0.0.0.0     v8fzc.info
+0.0.0.0     c1gcv.info
 
 #Tracking Domains (Found via Trocker)
 0.0.0.0     track.notify-w.box.com
