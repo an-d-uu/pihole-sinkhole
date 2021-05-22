@@ -89,6 +89,8 @@
 0.0.0.0     storage-for-mobileapps.life
 0.0.0.0     tracking-website-prod07-epic-961842049.us-east-1.elb.amazonaws.com
 0.0.0.0     corbana.ru
+0.0.0.0     openx.net
+0.0.0.0     ranker-d.openx.net
 
 # Malware Domains (Added by Hand)
 0.0.0.0     mirror.math.princeton.edu
