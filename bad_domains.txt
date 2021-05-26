@@ -107,6 +107,10 @@
 0.0.0.0     q7z4m7d9.stackpathcdn.com
 0.0.0.0     v8fzc.info
 0.0.0.0     c1gcv.info
+0.0.0.0     1fwsaootuda.amy0fu87b0ybcy.live
+0.0.0.0     amy0fu87b0ybcy.live
+0.0.0.0     odyjp5k5tn.sectddulryu.miami
+0.0.0.0     sectddulryu.miami
 
 #Tracking Domains (Found via Trocker)
 0.0.0.0     track.notify-w.box.com
