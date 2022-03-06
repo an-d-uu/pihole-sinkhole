@@ -2,7 +2,7 @@
 # Description: Domains listed here potentially compromise privacy by sending your information 
 #              or information about your machine to servers that can build a list of devices you use
 #              which can allow someone to track you.
-# Copyright 2021 Andy Woodward
+# Copyright 2022 Andy Woodward
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -20,3 +20,8 @@
 0.0.0.0     checkappexec.microsoft.com
 0.0.0.0     default.exp-tas.com
 0.0.0.0     exp-tas.com
+
+# Microsoft Telemetry Domain from SSMS
+0.0.0.0     vortex.data.microsoft.com
+0.0.0.0     az667904.vo.msecnd.net
+0.0.0.0     sqm.telemetry.microsoft.com
