@@ -1,0 +1,35 @@
+# Title: YouTube Block List
+# Released: 2023-02-07T09:20:00+00:00
+# Modified: 2024-02-07T09:20:00+00:00
+# Copyright 2024 Andy Woodward
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+#YouTube Domains RegEx - (pihole may not parse these when parsing ad lists.)
+0.0.0.0     (\.|^)googlevideo\.com$
+0.0.0.0     (\.|^)ytimg\.com$
+0.0.0.0     (\.|^)youtube\.com$
+0.0.0.0     (\.|^)youtul.be$
+0.0.0.0     (\.|^)youtubeil.googleapis\.com$
+0.0.0.0     (\./^)youtube-nocookiel.com$
+0.0.0.0     (\.|^)youtubel.\w+$
+
+#Simple Domains version of the above RegExes
+0.0.0.0     googlevideo.com
+0.0.0.0     youtu.be
+0.0.0.0     youtube-nocookie.com
+0.0.0.0     youtube.com
+0.0.0.0     youtube.googleapis.com
+0.0.0.0     youtubei.googleapis.com        #<- note the “i” on the end of “youtube”, that is not a typo.
+0.0.0.0     ytimg.com
+0.0.0.0     ytimg.l.google.com            
