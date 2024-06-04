@@ -1,6 +1,6 @@
 # Title: Streaming Devices Ad List
 # Released: 2023-01-30T08:23:00+00:00
-# Modified: 2023-01-30T08:23:00+00:00
+# Modified: 2024-06-04
 # Copyright 2024 Andy Woodward
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -48,3 +48,7 @@
 0.0.0.0     consent.cookiebot.com
 0.0.0.0     www.cookiebot.com
 0.0.0.0     cookiebot.com
+
+# Tracking Domains (Found via pihole)
+0.0.0.0     podtrac.com #podcast metrics
+0.0.0.0     www.podtrac.com #podcast metrics
