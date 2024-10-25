@@ -16,13 +16,13 @@
 # limitations under the License.
 
 #YouTube Domains RegEx - (pihole may not parse these when parsing ad lists.)
-0.0.0.0     (\.|^)googlevideo\.com$
-0.0.0.0     (\.|^)ytimg\.com$
-0.0.0.0     (\.|^)youtube\.com$
-0.0.0.0     (\.|^)youtul.be$
-0.0.0.0     (\.|^)youtubeil.googleapis\.com$
-0.0.0.0     (\./^)youtube-nocookiel.com$
-0.0.0.0     (\.|^)youtubel.\w+$
+# 0.0.0.0     (\.|^)googlevideo\.com$
+# 0.0.0.0     (\.|^)ytimg\.com$
+# 0.0.0.0     (\.|^)youtube\.com$
+# 0.0.0.0     (\.|^)youtul.be$
+# 0.0.0.0     (\.|^)youtubeil.googleapis\.com$
+# 0.0.0.0     (\./^)youtube-nocookiel.com$
+# 0.0.0.0     (\.|^)youtubel.\w+$
 
 #Simple Domains version of the above RegExes
 0.0.0.0     googlevideo.com
