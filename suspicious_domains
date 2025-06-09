@@ -1,5 +1,6 @@
-# Title: Political Ad Domains List
-# Released: 2024-10-25
+# Title: Suspicious Domains
+# Released: 2025-06-09T21:30:00+00:00
+# Modified: 2025-06-09T21:30:00+00:00
 # Copyright 2025 Andy Woodward
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,4 +15,5 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-0.0.0.0     45.donaldjtrump.com #Political Text Message
+0.0.0.0     histech.co
+0.0.0.0     www.histech.co
